@@ -215,7 +215,7 @@ main {
     }
 }
 
-.alternativas #errada {
+.alternativas#errada {
     outline: 3px solid var(--red);
 
     & span {
